@@ -5,12 +5,17 @@
 <p align="center"><img src="https://github.com/AbdullahKhanKakar/My-Dataset-Collection/blob/main/Image.jpg" width="60%" height="auto"></p>
 
 See it's details on kaggle: <a href="https://www.kaggle.com/datasets/abdullahkhanuet22/olx-cars-dataset">👉Click Here</a>.
-It's structured data in tabular form .It takes me around 15 to 20 days to scraped it from OLX website, using BeautifulSoup python library. There is no dummy details in the dataset. You can see, if you see any error then suggest me, your recommendations or tips can improve it and can make it error free. Feel free to contact through Linkedin or using Gmail.
 
-**How you can take benefit from OLX Cars Dataset?**
-- Best for building Prediction models for both regression or classification.
-- Highly recommended for Data Analysis project.
-- Also for Recommendation Systems.
 
 ## 2. AI Playlist Comments with Sentiments:
+
+<p align="center"><img src="https://github.com/AbdullahKhanKakar/My-Dataset-Collection/blob/main/Sentiments.jpg" width="60%" height="auto"></p>
+
+See it's details on kaggle: <a href="https://www.kaggle.com/datasets/abdullahkhanuet22/youtube-educational-playlist-comments-sentiments">👉Click Here</a>.
+
+## 3. Eggs Images Classification:
+
+<p align="center"><img src="https://github.com/AbdullahKhanKakar/My-Dataset-Collection/blob/main/Eggs.jpg" width="60%" height="auto"></p>
+
+See it's details on kaggle: <a href="https://www.kaggle.com/datasets/abdullahkhanuet22/eggs-images-classification-damaged-or-not">👉Click Here</a>.
 
