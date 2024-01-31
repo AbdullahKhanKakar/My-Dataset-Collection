@@ -12,6 +12,5 @@ It's structured data in tabular form .It takes me around 15 to 20 days to scrape
 - Highly recommended for Data Analysis project.
 - Also for Recommendation Systems.
 
-## 2. Eggs Classification:
+## 2. AI Playlist Comments with Sentiments:
 
-Currently Collecting... My aim to collect 5000 images of Damaged Eggs and 5000 images of Not Damaged Eggs.
