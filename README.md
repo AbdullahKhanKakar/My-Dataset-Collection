@@ -13,7 +13,13 @@ See it's details on kaggle: <a href="https://www.kaggle.com/datasets/abdullahkha
 
 See it's details on kaggle: <a href="https://www.kaggle.com/datasets/abdullahkhanuet22/youtube-educational-playlist-comments-sentiments">👉Click Here</a>.
 
-## 3. Eggs Images Classification:
+## 3. Top 1000 Tech Firms Worldwide:
+
+<p align="center"><img src="https://github.com/AbdullahKhanKakar/My-Dataset-Collection/blob/main/3.%20Top%201000%20Tech%20Firms%20Worldwide/pexels-paul-loh-233698.jpg" width="60%" height="auto"></p>
+
+See it's details on kaggle: <a href="https://www.kaggle.com/datasets/abdullahkhanuet22/top-1000-technology-companies-2024">👉Click Here</a>.
+
+## 4. Eggs Images Classification:
 
 <p align="center"><img src="https://github.com/AbdullahKhanKakar/My-Dataset-Collection/blob/main/Eggs.jpg" width="60%" height="auto"></p>
 
